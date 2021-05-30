@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/238a9049-260f-4781-b78b-277b6b508fd4/resourceGroups/frontendapp/providers/Microsoft.Web/sites/theFoundaterFrontend",
+    "appService.deploySubpath": "."
+}

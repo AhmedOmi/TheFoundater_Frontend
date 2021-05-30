@@ -1,0 +1,10 @@
+.App {
+  background-color: #f8f3eb;
+  height: auto;
+  width: 100%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=GFS+Neohellenic&family=Lobster&display=swap');
+.content{
+  padding:30px;
+}
